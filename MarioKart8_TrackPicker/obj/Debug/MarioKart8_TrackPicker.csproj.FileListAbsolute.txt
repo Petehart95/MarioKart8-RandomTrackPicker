@@ -1,0 +1,13 @@
+c:\users\peter\documents\visual studio 2015\Projects\MarioKart8_TrackPicker\MarioKart8_TrackPicker\bin\Debug\MarioKart8_TrackPicker.exe.config
+c:\users\peter\documents\visual studio 2015\Projects\MarioKart8_TrackPicker\MarioKart8_TrackPicker\obj\Debug\MarioKart8_TrackPicker.csprojResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2015\Projects\MarioKart8_TrackPicker\MarioKart8_TrackPicker\bin\Debug\MarioKart8_TrackPicker.exe
+c:\users\peter\documents\visual studio 2015\Projects\MarioKart8_TrackPicker\MarioKart8_TrackPicker\bin\Debug\MarioKart8_TrackPicker.pdb
+c:\users\peter\documents\visual studio 2015\Projects\MarioKart8_TrackPicker\MarioKart8_TrackPicker\obj\Debug\MarioKart8_TrackPicker.exe
+c:\users\peter\documents\visual studio 2015\Projects\MarioKart8_TrackPicker\MarioKart8_TrackPicker\obj\Debug\MarioKart8_TrackPicker.pdb
+C:\Users\Peter Hart\Documents\Visual Studio 2015\Projects\MarioKart8_TrackPicker\MarioKart8_TrackPicker\bin\Debug\MarioKart8_TrackPicker.exe.config
+C:\Users\Peter Hart\Documents\Visual Studio 2015\Projects\MarioKart8_TrackPicker\MarioKart8_TrackPicker\bin\Debug\MarioKart8_TrackPicker.exe
+C:\Users\Peter Hart\Documents\Visual Studio 2015\Projects\MarioKart8_TrackPicker\MarioKart8_TrackPicker\bin\Debug\MarioKart8_TrackPicker.pdb
+C:\Users\Peter Hart\Documents\Visual Studio 2015\Projects\MarioKart8_TrackPicker\MarioKart8_TrackPicker\obj\Debug\MarioKart8_TrackPicker.csprojAssemblyReference.cache
+C:\Users\Peter Hart\Documents\Visual Studio 2015\Projects\MarioKart8_TrackPicker\MarioKart8_TrackPicker\obj\Debug\MarioKart8_TrackPicker.csproj.CoreCompileInputs.cache
+C:\Users\Peter Hart\Documents\Visual Studio 2015\Projects\MarioKart8_TrackPicker\MarioKart8_TrackPicker\obj\Debug\MarioKart8_TrackPicker.exe
+C:\Users\Peter Hart\Documents\Visual Studio 2015\Projects\MarioKart8_TrackPicker\MarioKart8_TrackPicker\obj\Debug\MarioKart8_TrackPicker.pdb
